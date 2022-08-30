@@ -1,0 +1,10 @@
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\bin\Debug\Cube_Structure.exe.config
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\bin\Debug\Cube_Structure.exe
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\bin\Debug\Cube_Structure.pdb
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\ObjDir\2019\Cube_Structure\Cube_Structure.csproj.AssemblyReference.cache
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\ObjDir\2019\Cube_Structure\Cube_Structure.Input_Form.resources
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\ObjDir\2019\Cube_Structure\Cube_Structure.Properties.Resources.resources
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\ObjDir\2019\Cube_Structure\Cube_Structure.csproj.GenerateResource.cache
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\ObjDir\2019\Cube_Structure\Cube_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\ObjDir\2019\Cube_Structure\Cube_Structure.exe
+C:\Users\Aishwarya Karande\source\repos\Tekla_Application\Cube_Structure\ObjDir\2019\Cube_Structure\Cube_Structure.pdb
