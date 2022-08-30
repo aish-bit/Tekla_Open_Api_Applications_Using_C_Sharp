@@ -1,0 +1,10 @@
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\bin\Debug\Create_Beam.exe.config
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\bin\Debug\Create_Beam.exe
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\bin\Debug\Create_Beam.pdb
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\ObjDir\2019\Create_Beam\Create_Beam.csproj.AssemblyReference.cache
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\ObjDir\2019\Create_Beam\Create_Beam.Form1.resources
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\ObjDir\2019\Create_Beam\Create_Beam.Properties.Resources.resources
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\ObjDir\2019\Create_Beam\Create_Beam.csproj.GenerateResource.cache
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\ObjDir\2019\Create_Beam\Create_Beam.csproj.CoreCompileInputs.cache
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\ObjDir\2019\Create_Beam\Create_Beam.exe
+C:\Users\Aishwarya Karande\source\repos\Create_Beam\ObjDir\2019\Create_Beam\Create_Beam.pdb
